@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "TC_2.py", line 3, in <module>
+    data = [a , b, c, d]
+NameError: name 'a' is not defined

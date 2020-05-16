@@ -1,0 +1,8 @@
+numpy
+seaborn
+pandas
+nltk
+scipy
+matplotlib
+scikit-learn
+tensorflow==2.1.0
